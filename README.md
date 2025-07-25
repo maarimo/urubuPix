@@ -24,6 +24,18 @@ Simulação de um "golpe financeiro"
 
 ``Saída formatada com valores em dólar``
 
+## ✍️ Autor
+
+**Matheus Amorim**  
+Estudante de Engenharia de Software | Desenvolvedor Java e Mobile  
+[LinkedIn](www.linkedin.com/in/matheus-amorim-77206028a) | [GitHub](https://github.com/maarimo)
+
+---
+
+## 📌 Licença
+
+Este projeto é livre para estudo e prática.
+
 ⚠️ Nota:
 ---
 ``Este projeto é apenas uma simulação com fins educacionais e humorísticos. Não tente isso em casa (ou na rua).``
